@@ -1,5 +1,5 @@
 {
-    "name": "json-gcc-arm-none-eabi",
+    "name": "json-arm-none-eabi-gcc",
     "version": "1.0.0",
     "description": "",
     "main": "dist/app.ts",
